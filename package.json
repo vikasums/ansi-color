@@ -1,0 +1,19 @@
+{
+  "name": "ansi-color",
+  "version": "0.2.1",
+  "description": "ansi-color",
+  "main": "./lib/ansi-color.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikasums/ansi-color.git"
+  },
+  "keywords": [
+    "ansi"
+  ],
+  "author": "Vikas Anand <vikas@cfeindia.com>",
+  "license": "BSD",
+  "homepage": "https://github.com/vikasums/ansi-color#readme"
+}
